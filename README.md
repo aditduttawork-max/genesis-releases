@@ -17,7 +17,7 @@ Genesis is in **beta**. Some things may not work yet, and your feedback is how i
 
 Genesis is for Windows only.
 
-1. Download [**Genesis-Setup-0.2.0.exe**](https://github.com/aditduttawork-max/genesis-releases/releases/latest/download/Genesis-Setup-0.2.0.exe) from the Releases page.
+1. Download [**Genesis-Setup-0.2.1.exe**](https://github.com/aditduttawork-max/genesis-releases/releases/latest/download/Genesis-Setup-0.2.1.exe) from the Releases page.
 2. Double-click the file to run the installer.
 3. If Windows shows "Windows protected your PC," click **More info** and then **Run anyway**. Genesis is not yet code-signed, which is why Windows shows this warning.
 4. On first launch, choose a folder on your computer for your notes.
